@@ -1,0 +1,12 @@
+.OrderSummary{
+    text-align: center;
+    width:100% !important;
+    margin: auto;
+}
+
+@media(min-width:600px){
+    .OrderSummary{
+        width:500px;
+    }
+
+}
